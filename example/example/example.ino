@@ -142,7 +142,9 @@ void blink_random() {
         if(rnd & (1 << i)) {
             digitalWrite(leds[i],LOW);
         }
-    }    
+    }   
+
+   delay(100); 
 
 }
 

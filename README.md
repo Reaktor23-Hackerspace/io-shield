@@ -49,12 +49,15 @@ Note: You need to press the buttons for about 2 seconds in the worst case to tri
 
 ## Reichelt
 
-- LED1 - LED8       SMD-LED 3528 BL   0.25 EUR     8 pcs. / board
-- R9 - R16          SMD 1/4W 220      0.103 EUR    8 pcs. / board
-- R1 - R8           SMD 1/4W 10K      0.103 EUR    8 pcs. / board   
-- JP1 - JP16        SL 1X36G 2,54     0.15 EUR     1 pcs. / board
-                    JUMPER 2,54GL SW  0.04 EUR    16 pcs. / board
-- S1 - S8           TASTER 9314       0.20 EUR     8 pcs. / board
+ Part name      | Part type                                                                    | Part price (EUR) 
+--------------- | ---------------------------------------------------------------------------- | ---------------- 
+LED1 - LED8     | [SMD-LED 3528 BL](http://www.reichelt.de/index.html?ACTION=3;ARTICLE=46297)  | 0.25 
+R9 - R16        | [SMD 1/4W 220](http://www.reichelt.de/index.html?ACTION=3;ARTICLE=18287)     | 0.103
+R1 - R8         | [SMD 1/4W 10K](http://www.reichelt.de/index.html?ACTION=3;ARTICLE=18244)     | 0.103
+JP1 - JP16      | [SL 1X36G 2,54](http://www.reichelt.de/index.html?ACTION=3;ARTICLE=19504)    | 0.15
+                | [JUMPER 2,54GL SW](http://www.reichelt.de/index.html?ACTION=3;ARTICLE=9019)  | 0.04
+S1 - S8         | [TASTER 9314](http://www.reichelt.de/index.html?ACTION=3;ARTICLE=44510)      | 0.20
+
 
 ## dirtypcbs.com
 

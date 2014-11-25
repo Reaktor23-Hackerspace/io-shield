@@ -129,17 +129,8 @@
 <wire x1="1" y1="53.34" x2="64.516" y2="53.34" width="0.254" layer="20"/>
 <wire x1="66.04" y1="51.816" x2="66.04" y2="37.211" width="0.254" layer="20"/>
 <wire x1="26.9874" y1="3.023" x2="26.9875" y2="3.0231" width="0.0508" layer="21"/>
-<wire x1="123.825" y1="57.15" x2="123.825" y2="58.42" width="0.3048" layer="22"/>
-<wire x1="123.825" y1="58.42" x2="120.65" y2="58.42" width="0.3048" layer="22"/>
-<wire x1="120.65" y1="58.42" x2="120.65" y2="57.15" width="0.3048" layer="22"/>
-<wire x1="126.365" y1="57.15" x2="126.365" y2="60.96" width="0.3048" layer="22"/>
-<wire x1="126.365" y1="60.96" x2="109.22" y2="60.96" width="0.3048" layer="22"/>
-<wire x1="109.22" y1="60.96" x2="109.22" y2="57.15" width="0.3048" layer="22"/>
 <text x="51.5498" y="4.2686" size="1.27" layer="25" font="vector" ratio="12" rot="R90">A0</text>
-<text x="79.0829" y="53.0098" size="1.27" layer="22" font="vector" ratio="12" rot="MR180">Prototype</text>
 <text x="0.127" y="9.906" size="1.27" layer="49" font="vector" ratio="12">X2</text>
-<text x="78.5431" y="51.3334" size="1.27" layer="22" font="vector" ratio="12" rot="MR180">Limited</text>
-<text x="77.2668" y="49.2697" size="1.27" layer="22" font="vector" ratio="12" rot="MR180">Edition</text>
 <text x="54.0898" y="4.2686" size="1.27" layer="25" font="vector" ratio="12" rot="R90">A1</text>
 <text x="56.6298" y="4.2686" size="1.27" layer="25" font="vector" ratio="12" rot="R90">A2</text>
 <text x="59.1698" y="4.2686" size="1.27" layer="25" font="vector" ratio="12" rot="R90">A3</text>
@@ -158,19 +149,6 @@
 <text x="57.658" y="49.022" size="1.27" layer="21" font="vector" ratio="12" rot="R270">2</text>
 <text x="60.198" y="49.022" size="1.27" layer="21" font="vector" ratio="12" rot="R270">1</text>
 <text x="62.738" y="49.022" size="1.27" layer="21" font="vector" ratio="12" rot="R270">0</text>
-<text x="54.61" y="44.45" size="1.4224" layer="26" ratio="12" rot="MR0">MADE IN</text>
-<text x="53.34" y="42.545" size="1.4224" layer="26" ratio="12" rot="MR0">ITALY</text>
-<text x="135.0308" y="53.9618" size="1.4224" layer="26" font="vector" ratio="10" rot="MR90">SDA</text>
-<text x="137.8248" y="54.0888" size="1.4224" layer="26" font="vector" ratio="10" rot="MR90">SCL</text>
-<text x="104.0252" y="53.7986" size="1.016" layer="26" font="vector" ratio="12" rot="MR90">A6</text>
-<text x="125.6152" y="53.7986" size="1.016" layer="26" font="vector" ratio="12" rot="MR90">A11</text>
-<text x="108.4702" y="53.7986" size="1.016" layer="26" font="vector" ratio="12" rot="MR90">A7</text>
-<text x="115.4552" y="53.7986" size="1.016" layer="26" font="vector" ratio="12" rot="MR90">A8</text>
-<text x="117.9952" y="53.7986" size="1.016" layer="26" font="vector" ratio="12" rot="MR90">A9</text>
-<text x="120.5352" y="53.7986" size="1.016" layer="26" font="vector" ratio="12" rot="MR90">A10</text>
-<text x="125.095" y="61.595" size="1.27" layer="22" ratio="12" rot="MR0">PWM COMPL1</text>
-<text x="125.095" y="59.055" size="1.27" layer="22" ratio="12" rot="MR0">PWM COMPL2</text>
-<text x="111.0102" y="53.7986" size="1.016" layer="26" font="vector" ratio="12" rot="MR90">(AIN0)</text>
 <rectangle x1="42.545" y1="38.608" x2="43.053" y2="38.862" layer="43"/>
 <rectangle x1="35.814" y1="35.179" x2="36.449" y2="35.687" layer="43"/>
 <rectangle x1="44.45" y1="35.179" x2="45.212" y2="35.687" layer="43"/>
@@ -14810,42 +14788,42 @@ design rules under a new name.</description>
 </element>
 <element name="S1" library="switch-omron2" package="B3S-10XX" value="B3S-10XX" x="7.62" y="32.385" smashed="yes" rot="R270">
 <attribute name="LABEL" value="" x="12.7" y="35.2425" size="1.016" layer="25" ratio="18" rot="R270"/>
-<attribute name="NAME" x="6.6675" y="36.195" size="0.8128" layer="25"/>
+<attribute name="NAME" x="7.3025" y="38.1" size="0.8128" layer="25"/>
 <attribute name="VALUE" x="3.175" y="35.2425" size="0.8128" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="S2" library="switch-omron2" package="B3S-10XX" value="B3S-10XX" x="15.24" y="32.385" smashed="yes" rot="R270">
 <attribute name="LABEL" value="" x="20.32" y="35.2425" size="1.016" layer="25" ratio="18" rot="R270"/>
-<attribute name="NAME" x="14.2875" y="36.195" size="0.8128" layer="25"/>
+<attribute name="NAME" x="14.9225" y="38.1" size="0.8128" layer="25"/>
 <attribute name="VALUE" x="10.795" y="35.2425" size="0.8128" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="S3" library="switch-omron2" package="B3S-10XX" value="B3S-10XX" x="22.86" y="32.385" smashed="yes" rot="R270">
 <attribute name="LABEL" value="" x="27.94" y="35.2425" size="1.016" layer="25" ratio="18" rot="R270"/>
-<attribute name="NAME" x="21.9075" y="36.195" size="0.8128" layer="25"/>
+<attribute name="NAME" x="22.5425" y="38.1" size="0.8128" layer="25"/>
 <attribute name="VALUE" x="18.415" y="35.2425" size="0.8128" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="S4" library="switch-omron2" package="B3S-10XX" value="B3S-10XX" x="30.48" y="32.385" smashed="yes" rot="R270">
 <attribute name="LABEL" value="" x="35.56" y="35.2425" size="1.016" layer="25" ratio="18" rot="R270"/>
-<attribute name="NAME" x="29.5275" y="36.195" size="0.8128" layer="25"/>
+<attribute name="NAME" x="30.1625" y="38.1" size="0.8128" layer="25"/>
 <attribute name="VALUE" x="26.035" y="35.2425" size="0.8128" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="S5" library="switch-omron2" package="B3S-10XX" value="B3S-10XX" x="38.1" y="32.385" smashed="yes" rot="R270">
 <attribute name="LABEL" value="" x="43.18" y="35.2425" size="1.016" layer="25" ratio="18" rot="R270"/>
-<attribute name="NAME" x="37.1475" y="36.195" size="0.8128" layer="25"/>
+<attribute name="NAME" x="37.7825" y="38.1" size="0.8128" layer="25"/>
 <attribute name="VALUE" x="33.655" y="35.2425" size="0.8128" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="S6" library="switch-omron2" package="B3S-10XX" value="B3S-10XX" x="45.72" y="32.385" smashed="yes" rot="R270">
 <attribute name="LABEL" value="" x="50.8" y="35.2425" size="1.016" layer="25" ratio="18" rot="R270"/>
-<attribute name="NAME" x="44.7675" y="36.195" size="0.8128" layer="25"/>
+<attribute name="NAME" x="45.4025" y="38.1" size="0.8128" layer="25"/>
 <attribute name="VALUE" x="41.275" y="35.2425" size="0.8128" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="S7" library="switch-omron2" package="B3S-10XX" value="B3S-10XX" x="53.34" y="32.385" smashed="yes" rot="R270">
 <attribute name="LABEL" value="" x="58.42" y="35.2425" size="1.016" layer="25" ratio="18" rot="R270"/>
-<attribute name="NAME" x="52.3875" y="36.195" size="0.8128" layer="25"/>
+<attribute name="NAME" x="53.0225" y="38.1" size="0.8128" layer="25"/>
 <attribute name="VALUE" x="48.895" y="35.2425" size="0.8128" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="S8" library="switch-omron2" package="B3S-10XX" value="B3S-10XX" x="60.96" y="32.385" smashed="yes" rot="R270">
 <attribute name="LABEL" value="" x="66.04" y="35.2425" size="1.016" layer="25" ratio="18" rot="R270"/>
-<attribute name="NAME" x="60.0075" y="36.195" size="0.8128" layer="25"/>
+<attribute name="NAME" x="60.6425" y="38.1" size="0.8128" layer="25"/>
 <attribute name="VALUE" x="56.515" y="35.2425" size="0.8128" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="R1" library="rcl" package="M1206" value="" x="6.35" y="25.4" smashed="yes">
@@ -15031,9 +15009,9 @@ design rules under a new name.</description>
 </polygon>
 <polygon width="0.1524" layer="1" spacing="0.254" isolate="0.4064" rank="2">
 <vertex x="0.635" y="52.705"/>
-<vertex x="71.12" y="52.705"/>
-<vertex x="71.12" y="1.635" curve="-90"/>
-<vertex x="70.12" y="0.635"/>
+<vertex x="69.215" y="52.705"/>
+<vertex x="69.215" y="1.635" curve="-90"/>
+<vertex x="68.215" y="0.635"/>
 <vertex x="1.635" y="0.635" curve="-90"/>
 <vertex x="0.635" y="1.635"/>
 </polygon>

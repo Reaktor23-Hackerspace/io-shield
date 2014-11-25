@@ -2,9 +2,12 @@
 
 IO-shield is a Arduino shield with 8 LED's, 8 push buttons and 2 potentiometers, designed for learning purposes.
 
-# Layout
+# Pictures
+
+![io-shield asambled](https://github.com/Reaktor23-Hackerspace/io-shield/raw/master/io-shield-v1.1-picture.jpg)
 
 ![io-shield eagle design](https://github.com/Reaktor23-Hackerspace/io-shield/raw/master/io-shield-v1.1-eagle.png)
+
 
 # Example program
 
